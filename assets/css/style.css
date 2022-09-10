@@ -155,7 +155,7 @@ h1, h2 {
 
     #square-container {
         width: 1000px;
-        height: 1000px;
+        height: 950px;
         padding: 30px;
         border-style: solid;
         border-color: #ccc;
@@ -181,6 +181,15 @@ h1, h2 {
     }
     
     /* feedback */
+
+    #feedback {
+        background: url('../images/Testimonials.webp');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
 
   .testimonial-heading h2 {
     margin-top: 40px;
