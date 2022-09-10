@@ -15,7 +15,7 @@ body {
 
 h1, h2 {
     font-family: Montserrat, sans-serif;
-    text-transform: uppercase;
+    text-transform: capitalize;
     letter-spacing: 2px;
     color: #252525;
 }
@@ -24,6 +24,7 @@ h1, h2 {
     float: left;
     font-size: 250%;
     margin-left: 30px;
+    text-transform: uppercase;
     }
 
     /* navigation links */
@@ -67,6 +68,7 @@ h1, h2 {
 
     #cover-text, #cover-text h2 {
         color: #fff;
+        text-align: center;
     }
     #hero-image {
         height: 615px;
@@ -77,7 +79,7 @@ h1, h2 {
     }
 
     #cover-text {
-        font-size: 120%;
+        font-size: 100%;
         font-family: Montserrat, sans-serif;
         text-transform: uppercase;
         letter-spacing: 2px;
@@ -119,7 +121,7 @@ h1, h2 {
     #center-about {
         width: 33%;
         margin: 0 auto;
-        background-color: green;
+        
     }
 
     hr {
@@ -136,18 +138,46 @@ h1, h2 {
         margin: 50px;
     }
 
-    .right-about-heading {
+    
+    #welcome {
+        text-align: left;
+        margin: 20px 0;
+        font-size: 250%;
+        margin-left: 100px;
+         }
+
+    .center-about {
         width: 60%;
-        float: left;
         line-height: 20px;
         clear: both;
         margin: 50px;
     }
 
-    .right-about-heading h2 {
-        text-align: right;
+    #square-container {
+        width: 1000px;
+        height: 1000px;
+        padding: 30px;
+        border-style: solid;
+        border-color: #ccc;
+        border-width: 2px;
+        margin: 0 auto;
     }
 
-    .right-about-heading p {
-        text-align: right;
+    .square-cover-bg {
+        width: 60%;
+        line-height: 20px;
+        clear: both;
+        margin: 50px;
+        }
+        
+    
+    .center-about-heading h2, h3 {
+        text-align: center;
     }
+
+    #square-cover-bg {
+        background: url('../images/Fit\ With\ us.webp') no-repeat center center;
+        height: 100%;
+    }
+    
+  
