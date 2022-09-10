@@ -208,3 +208,35 @@ h1, h2 {
   #feedback h2 {
     color: #fafafa;
       }
+
+      /* Contact */
+
+      #contact-info {
+        margin: 50px;
+      }
+
+      .contact-details{
+        list-style-type: none;
+        text-align: center;
+      }
+
+      /* footer */
+
+      footer {
+        height: 50px;
+      }
+
+      .social-links {
+        text-align: center;
+      }
+
+      .social-links li {
+        display: inline;
+      }
+
+      .social-links i {
+        font-size: 170%;
+        margin: 3%;
+        padding: 1%;
+        color: #3a3a3a;
+      }
