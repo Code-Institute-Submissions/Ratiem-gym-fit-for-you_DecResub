@@ -240,3 +240,21 @@ h1, h2 {
         padding: 1%;
         color: #3a3a3a;
       }
+
+      /* facilities */
+      
+      #photos {
+        clear: both;
+        line-height: 0;
+        column-count: 3;
+        column-gap: 0;
+      }
+
+      #photos > img {
+        width: 100%;
+      }
+
+      .faciltiies-offered {
+        list-style-type: none;
+        text-align: center;
+      }
