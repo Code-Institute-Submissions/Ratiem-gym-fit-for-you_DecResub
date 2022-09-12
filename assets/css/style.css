@@ -58,7 +58,7 @@ h1, h2 {
     }
 
     #hero-outer {
-        height: 400px;
+        
         width: 100%;
         overflow: hidden;
  
@@ -71,10 +71,12 @@ h1, h2 {
         text-align: center;
     }
     #hero-image {
-        height: 615px;
-        width: 140%;
-        margin: -10%;
-        background: url('../images/hero-\ image.webp');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 700px;
+        width: 100%;
+        background-image: url('../images/hero-\ image.webp');
        
     }
 
@@ -366,13 +368,63 @@ h1, h2 {
  /* for all small screen sizes 800px down */
  @media screen and (max-width: 800px) {
     
-    
-    #square-cover-bg {
-        width: 75%;
+    #logo {
+        font-size: 200%;
     }
 
-    #photos {
+    #gym-ethos {
+        width: 30%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+        #photos {
         column-count: 2;
     }
 
+    #menu {
+        line-height: 30px;
+        width: 70%;
+       
+       letter-spacing: 1px;
+    }
+
+    #menu li {
+        text-align: center;
+    }
+
+    #gym-ethos {
+        width: 25%;
+    }
+
+    #feedback h2{
+        width: 80%;
+        font-size: 100%;
+     }
+
+       #feedback p{
+        font-size: 95%;
+       }
+
+       .center-about-heading h2, h3 {
+        text-align: left;
  }
+
+ #square-cover-bg {
+    width: 30%;
+    background-size: cover;
+    height: 33%;
+    max-height: 0 auto;
+    
+ }
+
+ #cover-text h3{
+text-align: center;
+ }
+
+ .square-container {
+   height: 33%;
+   
+ }
+
+}
