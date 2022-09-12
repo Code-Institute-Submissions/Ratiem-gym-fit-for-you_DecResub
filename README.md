@@ -11,7 +11,7 @@ Our gym is open for all ages. Gym Fit For You is a site targeting all people bas
 ## Repository 
 ![Repository](https://github.com/Ratiem/gym-fit-for-you)
 
-### Project Goals
+# Project Goals
 The Idea for this project is something I actually can identify with as health and fitness is part of my daily life. From having made a life altering decision in 2018
 to get my health back in shape, I spent 2 years working on my weight and health issues which had deteriorated due to fatigue and a lack of control over my work, life balance as well as food choices. My success is complemented to the coaches that helped me achieve my goals. I had initially tried it by myself until l made the decision to get professional help. 
 
@@ -37,7 +37,7 @@ The Features in this website are those that are very common and most likely all 
   - The hero image includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Gym Fit For You with an eye catching image of two people exercising to grab their attention.
 
-![Hero Image Page]('../assets/images/hero-image.webp')
+![Hero Image Page](https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/hero-%20image.webp)
 
 - __Gym Ethos Section__
 
@@ -45,12 +45,12 @@ The Features in this website are those that are very common and most likely all 
   - This section lists all the health benefits once obtains from being a dedicated member of the gym
 
 
- __Plans Section__
+ - __Plans Section__
 
   - The plans section gives a list of options for the user to choose from when it comes to the membership options
   - This user will also see the value that comes with either of the plans on offer. 
 
-![Plans]('../assets/images/Fit-With-us.webp')
+![Plans]https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/Fit-With-us.webp
 
 - __Feedback section__
 
@@ -104,7 +104,7 @@ In intial testing for css using the Jigsaw validator 1 error was found being mor
 The webiste was also tested for responsivenes for media screen sizes from 1200px wide and down and also for media screen sizes from 950px wide and down.
 
 
-### Validator Testing 
+## Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fratiem.github.io%2Fgym-fit-for-you%2F)
