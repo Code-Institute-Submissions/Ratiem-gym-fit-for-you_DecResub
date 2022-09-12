@@ -179,8 +179,10 @@ h1, h2 {
     }
     
     #square-cover-bg {
-        background: url('../images/Fit\ With\ us.webp') no-repeat center center;
+        background: url('../images/Fit-With-us.webp') no-repeat center center;
         height: 100%;
+        background-size: cover;
+      
     }
     
     /* feedback */
