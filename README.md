@@ -69,7 +69,6 @@ The Features in this website are those that are very common and most likely all 
   - The facilities page which is a gallery of images of the Gym  will provide the user with a visual look and feel of the establishment and the servcies offered. 
   - This sections is designed to be another way to attract the potential members to join. 
 
-![Facilites](https://ratiem.github.io/gym-fit-for-you/facility.html)
 
 - __The Sign Up Page__
 
@@ -77,7 +76,7 @@ The Features in this website are those that are very common and most likely all 
     option of signing up for a purely flexible gym membership or a fixed plan with a trained professional. They are also able to choose both if they wish
   - The sign up page also requires the user to complete their details, that being their full name and email address. 
 
-![Sign Up](hhttps://ratiem.github.io/gym-fit-for-you/signup.html)
+![Sign Up](https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/signup%20image.webp)
 
 
 ## Technologies Used
