@@ -7,8 +7,8 @@ The flexible packages allows one to cancel or renew as desired, while the Fixed 
 Our gym is open for all ages. Gym Fit For You is a site targeting all people based in and around Amsterdam that are looking for ways to stay in shape and keep themselves fit.
 
 
-## Repository 
-![Repository](https://ratiem.github.io/gym-fit-for-you/)
+## Live Site
+![Responsiveness](https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/responsiveness.jpg)
 
 # Project Goals
 The Idea for this project is something I actually can identify with as health and fitness is part of my daily life. From having made a life altering decision in 2018
