@@ -114,7 +114,7 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
   - From the source section drop-down menu, select the Master Branch and then select main
   - The page is now published with a link available to use. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://ratiem.github.io/gym-fit-for-you/
 
 
 ## Credits 
