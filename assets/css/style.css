@@ -372,73 +372,102 @@ h1, h2 {
         font-size: 200%;
     }
 
+    #menu {
+        line-height: 30px;
+        width: 100%;
+        letter-spacing: 1px;
+    }
+
+    #menu li {
+        text-align: center;
+    }
+
+    #cover-text h3{
+        text-align: center;
+        }
+
     #gym-ethos {
         width: 100%;
         height: 1200px;
-        margin-left: 70px;
+        margin-left: 10px;
     }
 
     .left-about-heading {
         width: 100%;
-        /* float: right; */
-        line-height: 20px;
-        clear: both;
-        margin: 50px;
-    }
-
-        #photos {
-        column-count: 2;
-    }
-
-        #menu {
-        line-height: 30px;
-        width: 100%;
-       
-       letter-spacing: 1px;
-    }
-
-        #menu li {
-        text-align: center;
-    }
-
-        #feedback h2{
-        width: 80%;
-        font-size: 100%;
-     }
-
-       #feedback p{
-        font-size: 90%;
-       }
-
-       .center-about-heading h2, h3 {
-        text-align: left;
-        }
-
-        .center-about-heading {
-            width: 100%;
-         }
-
-    .square-cover-bg {
-        width: 100%;
-        margin: 5px;
-        height: 33%;
-    
-     }
-
-    #cover-text h3{
-    text-align: center;
+        float: left;
+       padding: 0;
     }
 
     #center-about {
-        width: 100%;
+        clear: both;
+        width: 93%;
+        float: left;
+        padding: 0;
     }
-  
+
     #square-container {
-        width: 1000px;
-        height: 1000px;
-        padding: 30px;
-        
-        margin: 0 auto;
+        clear: both;
+        width: 100%;
+       float: left;
+        padding: 0;
+        font-size: small;
     }
+
+    #square-cover-bg {
+        clear: both;
+        width: 93%;
+        float: right;
+        background-size: cover;
+        height: 600px;
+        padding: 0;
+    }
+
+    #square-cover-bg > div {
+        width: 93%;
+        clear: both;
+        height: 700px;
+        padding: 0;
+    }
+    
+    .center-about-heading {
+        width: 90%;
+    }
+
+    .center-about-heading h2, h3 {
+        text-align: center;
+    }
+
+    #feedback h2{
+        width: 80%;
+        font-size: 100%;
+    }
+    
+    #feedback p{
+        font-size: 90%;
+    }
+       
+    #photos {
+        column-count: 2;
+    }
+
+    br {
+        display: none;
+    }
+        
+
+       
+
+       
+       
+
+       
+
+    
+
+    
+
+   
+  
+    
 
 }
