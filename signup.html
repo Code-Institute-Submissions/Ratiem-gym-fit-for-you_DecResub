@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,79 +15,90 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Gym Fit For You</title>
 </head>
+
 <body>
-   <header>
+    <header>
         <a href="index.html">
             <h1 id="logo">Gym Fit For You</h1>
         </a>
         <nav>
             <ul id="menu">
                 <li>
-                    <a class="active" href="signup.html" class="active">Sign Up</a> 
+                    <a class="active" href="signup.html">Sign Up</a>
                 </li>
                 <li>
                     <a href="facility.html">Facilities</a>
                 </li>
-                <li>                    
-                    <a href="index.html" >Home</a> 
+                <li>
+                    <a href="index.html">Home</a>
                 </li>
             </ul>
         </nav>
-   </header>
+    </header>
 
-   <section class="form-section">
-    
-    <form class="signup-form">
-        <h2><i class="fas fa-heartbeat"></i>Let's get you signed up!</h2>
-    <label for="fname">First Name</label>
-        <input type="text" id="fname" name="first_name" class="text-input"required>
-    <label for="lname">Last Name</label>
-        <input name="last_name" type="text" id="lname" class="text-input" required>
-    <label for="email">Email Address</label>
-        <input  type="email"  name="email_address" id="email" class="text-input" required>
- 
-    <label for="fitflex">Fit Flex</label>
-        <input type="radio" name="flex_preference" value="flex" required>
-    <label for="fit1year">Fit 1 Year</label>
-        <input type="radio" name="fixed_preference" value="fixed">
-    <label for="both">Both</label>
-        <input type="radio" name="gym_preference" value="both">
- 
-        <input class="join-button" type="submit" value="Let's Gym!"> 
-    </form>
-</section>
-   
-   <section>
-    <div id="contact-info">
-        <h3>Contact US</h3>
-        <ul class="contact-details">
+    <section class="form-section">
+
+        <form class="signup-form" action="https://formdump.codeinstitute.net/" method="GET">
+            <h2><i class="fas fa-heartbeat"></i>Let's get you signed up!</h2>
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="first_name" class="text-input" required>
+            <label for="lname">Last Name</label>
+            <input name="last_name" type="text" id="lname" class="text-input" required>
+            <label for="email">Email Address</label>
+            <input type="email" name="email_address" id="email" class="text-input" required>
+
+            <div class="radio-pair">
+                <input id="fitflex" type="radio" name="what-style" value="fitflex" required>
+                <label for="fitflex">Fit Flex</label>
+            </div>
+            <div class="radio-pair">
+                <input id="fit1year" type="radio" name="what-style" value="fit1year">
+                <label for="fit1year">Fit 1 year</label>
+            </div>
+            <div class="radio-pair">
+                <input id="both" type="radio" name="what-style" value="both">
+                <label for="both">Both</label>
+            </div>
+
+            <input class="join-button" type="submit" value="Let's Gym!">
+        </form>
+    </section>
+
+    <section>
+        <div id="contact-info">
+            <h3>Contact US</h3>
+            <ul class="contact-details">
+                <li>
+                    <i class="fas fa-location-arrow"></i>37 Buikslotermeerplein, 1022KD, Amsterdam Noord
+                </li>
+                <li>
+                    <i class="fas fa-phone"></i><a href="tel:0312008000">0312008000</a>
+                </li>
+                <li>
+                    <i class="far fa-envelope"></i><a href="mailto:info@gymfitforyou.nl">info@gymfitforyou.nl</a>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <footer>
+        <ul class="social-links">
             <li>
-                <i class="fas fa-location-arrow"></i>37 Buikslotermeerplein, 1022KD, Amsterdam Noord
+                <a href="https://www.facebook.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page (opens in new tab)"><i class="fab fa-facebook"></i></a>
             </li>
             <li>
-                <i class="fas fa-phone"></i><a href="tel:0312008000">0312008000</a>
+                <a href="https://twitter.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Twitter page (opens in new tab)"><i class="fab fa-twitter"></i></a>
             </li>
             <li>
-                <i class="far fa-envelope"></i><a href="mailto:info@gymfitforyou.nl">info@gymfitforyou.nl</a> 
+                <a href="https://www.instagram.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Instagram page (opens in new tab)"><i class="fa fa-instagram"></i></a>
             </li>
         </ul>
-    </div>
-   </section>
-  <footer>
-      <ul class="social-links">
-        <li>
-            <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in new tab)"><i class="fab fa-facebook"></i></a>
-        </li>
-        <li>
-            <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in new tab)"><i class="fab fa-twitter"></i></a>
-        </li>
-        <li>
-            <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in new tab)"><i class="fa fa-instagram"></i></a>
-        </li>
-     </ul>
-  </footer>
+    </footer>
 
- <!--font awesome script-->
- <script src="https://kit.fontawesome.com/354eb5522a.js" crossorigin="anonymous"></script>
+    <!--font awesome script-->
+    <script src="https://kit.fontawesome.com/354eb5522a.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
