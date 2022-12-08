@@ -127,6 +127,19 @@ All 3 HTML pages were passed through the [W3C validator] and no errors were retu
 
 The live link can be found here - (https://ratiem.github.io/gym-fit-for-you/)
 
+In order to fork this repository, you must:
+- Go to the Github repository.
+- Click on the "fork Button" at the top right hand corner of the page.
+- Then select "create new fork' from the menu provided.
+
+You can clone this repository by:
+- Going to the Github repository, click on the code button located above the file list.
+- Select if you prefer to clone using either HTTPS, SSH, or Github CLI.
+- Click on the copy button to copy the URL to your clipboard.
+- Open Git Bash.
+- Change the current working directory to the one where you want to clone the directory to.
+- Type "git clone" and then paste the copied URL from Github.
+- Press enter to cleate your local clone.
 
 ## Credits 
 
