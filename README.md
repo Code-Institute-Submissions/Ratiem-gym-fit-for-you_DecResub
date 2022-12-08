@@ -99,6 +99,8 @@ In intial testing for css using the Jigsaw validator 1 error was found being mor
 
 The webiste was also tested for responsivenes for media screen sizes from 1200px wide and down and also for media screen sizes from 950px wide and down.
 
+I also tested for navigation accross the different pages(home, facilities and sign up page). Its possible to move from Home page to facilities and Sign up pages with no broken links and bavigation any other way round is also possible.
+
 
 ## Validator Testing 
 
