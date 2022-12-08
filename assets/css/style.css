@@ -200,14 +200,14 @@ h3 {
 }
 
 #square-cover-bg {
-    background: url('../images/Fit-With-us.webp') no-repeat center center;
+    background: url('../images/fit-with-us.webp') no-repeat center center;
     height: 123%;
 }
 
 /* feedback */
 
 #feedback {
-    background: url('../images/Testimonials.webp');
+    background: url('../images/testimonials.webp');
     background-size: cover;
     background-position: center;
     width: 95%;
