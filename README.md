@@ -8,7 +8,7 @@ Our gym is open for all ages. Gym Fit For You is a site targeting all people bas
 
 
 ## Live Site
-![Responsiveness](https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/responsiveness.jpg)
+![Responsiveness](https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/responsiveness.webp)
 
 # Project Goals
 The Idea for this project is something I actually can identify with as health and fitness is part of my daily life. From having made a life altering decision in 2018
