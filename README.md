@@ -103,9 +103,15 @@ The webiste was also tested for responsivenes for media screen sizes from 1200px
 ## Validator Testing 
 
 All 3 HTML pages were passed through the [W3C validator] and no errors were returned.
+
 - Home page 
+![Home Page Validation](https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/home-page-validator.webp)
+
 - Facilities page
+![Facilities Page Validation](https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/facilities-page%20-validator.webp)
+
 - Sign Up Page
+![Sign Up Page Validation](https://github.com/Ratiem/gym-fit-for-you/blob/main/assets/images/sign-up-page-validator.webp)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fratiem.github.io%2Fgym-fit-for-you%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
