@@ -101,6 +101,8 @@ The webiste was also tested for responsivenes for media screen sizes from 1200px
 
 I also tested for navigation accross the different pages(home, facilities and sign up page). Its possible to move from Home page to facilities and Sign up pages with no broken links and bavigation any other way round is also possible.
 
+The one unfixed issue is that of responsiveness of the the fit with us image on the home page. I tried changing various media queries but the image was still not appearing fully in the square box, however given that the assessors did not request me to fix this to get a pass, I opted to leave it out. I addressed all other queries mentioned by the assessors that are required to obtain a pass.
+
 
 ## Validator Testing 
 
