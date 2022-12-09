@@ -12,12 +12,12 @@ body {
     color: #3a3a3a;
 }
 
-/* .container {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
-} */
+}
 
 main {
     display: flex;
